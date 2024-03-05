@@ -10,6 +10,8 @@
 
 ## FUNCTIONS:
 
+![3](https://github.com/000saddamahmad/Valorant-Meteorite/assets/17576690/e145a325-667b-4407-9543-4b24cd853801)
+
 ### 🔻Aim
 
 * Auto aim at your enemies
@@ -38,9 +40,3 @@
 * Max healthbar distance
 * Max name distance
 * Max info distance
-
-### 🔻Radar
-
-* Show enemies
-* Show friends
-* Colors
