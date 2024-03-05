@@ -8,8 +8,6 @@
 
 ![2](https://github.com/000saddamahmad/Valorant-Meteorite/assets/17576690/51e10647-49b3-4ee7-8230-65605f79e2e0)
 
-![3](https://github.com/000saddamahmad/Valorant-Meteorite/assets/17576690/bdb82021-f9b6-495f-805f-802d264c6306)
-
 ## FUNCTIONS:
 
 ### 🔻Aim
